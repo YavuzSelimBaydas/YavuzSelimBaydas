@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/yavuzselimbaydas/
 
 -->
+- 🔭 I’m currently working on Web Developer
+- 🌱 I’m currently learning Artificial Intelligence
+- 📫 How to reach me: https://www.linkedin.com/in/yavuzselimbaydas/
